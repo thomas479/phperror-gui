@@ -1,0 +1,33 @@
+{
+  "name": "phperror-gui",
+  "version": "1.0.0",
+  "description": "Fancy GUI for viewing your PHP error log file",
+  "main": "index.php",
+  "dependencies": {
+    "html-entities": "^1.2.1",
+    "moment": "^2.18.1",
+    "nl2br": "0.0.3",
+    "locutus": "^2.0.8"
+  },
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas479/phperror-gui.git"
+  },
+  "keywords": [
+    "PHP",
+    "error",
+    "gui"
+  ],
+  "author": "amnuts, thomas479",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomas479/phperror-gui/issues"
+  },
+  "homepage": "https://github.com/thomas479/phperror-gui#readme"
+}
